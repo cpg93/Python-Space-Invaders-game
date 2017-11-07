@@ -1,6 +1,4 @@
-#Space Invaders - Part 10
-#Sound (MacOSX / Linux Only)
-#Python 2.7 on Mac
+#Space Invaders Gaame
 import turtle
 import os
 import math
